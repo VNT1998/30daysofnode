@@ -1,0 +1,1 @@
+this is the content added in the file in syncronous mode. and following this is the text appended and following this is the text appendedthis is the another content added in the file in syncronous mode.this is the another content added in the file in syncronous mode.
